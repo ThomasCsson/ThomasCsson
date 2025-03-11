@@ -8,4 +8,6 @@ I am currently a bachelors student at EPFL (Swiss Federal Technology Institute o
 
 -Langmuir.jl: This package implements single adsorption and multicomponent adsorption through Ideal Absorbed Solution Theory (IAST). I am corrently working on this with researchers from NTNU.
 
-You can contact me via either of my emails: Thomas.christiansson
+You can contact me via either of my emails: thomas.christiansson@epfl.ch or thomasvc@stud.ntnu.no 
+
+Otherwise, feel free to reach out on LinkedIn at https://www.linkedin.com/in/thomas-christiansson-3a737130b/
