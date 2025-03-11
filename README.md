@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+it's+Thomas+!;Welcome+to+my+amazing+GitHub+account)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+it's+Thomas!;Welcome+to+my+GitHub+account)](https://git.io/typing-svg)
 
-I am currently a bachelors student at EPFL (Swiss Federal Technology Institute of Lausanne) in Chemistry and Chemical Engineering. This year, for the final year of my degree, I am on an exchange at NTNU (Norwegian University of Science and Technology), specialising in Chemical Engineering.
+I am Thomas Christiansson, and I am currently a bachelors student at EPFL (Swiss Federal Technology Institute of Lausanne) in Chemistry and Chemical Engineering. This year, for the final year of my degree, I am on an exchange at NTNU (Norwegian University of Science and Technology), specialising in Chemical Engineering.
 
 ## Projects I have worked on/am working on 🔥:
 
