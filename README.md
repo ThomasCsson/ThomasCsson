@@ -7,8 +7,10 @@ Particularly, I am busy learning both MATLAB and Julia at the moment in the cont
 ## Projects I have worked on/am currently working on 🔥:
 
 -MASSIVEChem: A collaborative Python package focused on mass spectrometry, developped during my second year at EPFL, that simulates the mass spectrum of any given molecule. 
+https://github.com/ThomasCsson/MASSIVEChem
 
 -Langmuir.jl: This package implements single adsorption and multicomponent adsorption through Ideal Absorbed Solution Theory (IAST). I am corrently working on this with researchers from NTNU.
+https://github.com/ClapeyronThermo/Langmuir.jl 
 
 ## Contact details
 
