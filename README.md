@@ -17,4 +17,4 @@ https://github.com/ClapeyronThermo/Langmuir.jl
 
 You can contact me via my email: thomas.christiansson@epfl.ch 
 
-Otherwise, feel free to reach out on LinkedIn at https://www.linkedin.com/in/thomas-christiansson-3a737130b/
+Otherwise, feel free to reach out on LinkedIn at https://www.linkedin.com/in/thomas-christiansson/
