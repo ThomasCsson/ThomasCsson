@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+it's+Thomas!;Welcome+to+my+GitHub+account)](https://git.io/typing-svg)
 
 My main philosophy:
+
 IF WE HAVE DATA, LET'S LOOK AT THE DATA. IF ALL WE HAVE IS OPINIONS, LET'S GO WITH MINE.
+
 _James L. Barksdale_
+
+
 My name is Thomas Christiansson and I am currently a masters student at EPFL (Swiss Federal Technology Institute of Lausanne) in Chemical Engineering. 
 
 I completed by bachelors in Chemistry and Chemical Engineering at EPFL in 2025 after having spent a year in Norway at NTNU (the Norwegian Univeristy of Science and Technology) on an academic exchange where I got the opportunity to deepen my knowledge of chemical engineering and particularly computational chemical engineering in MatLab, Julia and Python.
