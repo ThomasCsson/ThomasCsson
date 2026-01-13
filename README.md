@@ -5,6 +5,9 @@ My main philosophy:
 IF WE HAVE DATA, LET'S LOOK AT THE DATA. IF ALL WE HAVE IS OPINIONS, LET'S GO WITH MINE.
 _James L. Barksdale_
 
+AVOID THE PROBLEM RATHER THAN SOLVE IT.
+_Trevor Kletz_
+
 
 My name is Thomas Christiansson and I am currently a masters student at EPFL (Swiss Federal Technology Institute of Lausanne) in Chemical Engineering. 
 
