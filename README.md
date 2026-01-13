@@ -3,11 +3,9 @@
 My main philosophy:
 
 _IF WE HAVE DATA, LET'S LOOK AT THE DATA. IF ALL WE HAVE IS OPINIONS, LET'S GO WITH MINE._
-
 James L. Barksdale
 
 _AVOID THE PROBLEM RATHER THAN SOLVE IT._
-
 _Trevor Kletz_
 
 
